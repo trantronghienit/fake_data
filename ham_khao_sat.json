@@ -1,203 +1,209 @@
 {
-    "title": "Khảo Sát Hầm Bể",
-    "data": [
-        {
-         "id":"43",
-         "title":"Vị trí kiểm tra",
-         "status":"-1",
-         "note":"null"
-      },
-      {
-         "id":"44",
-         "title":"GPS",
-         "status":"-1",
-         "note":"null"
-      },
-      {
-         "id":"45",
-         "title":"Tên hầm",
-         "status":"-1",
-         "note":"null"
-      },
-      {
-         "id":"46",
-         "title":"Hầm bị bể nắp, mất nắp",
-         "status":"1",
-         "note":"null",
-         "images":[
-            {
-               "label":"img_1",
-               "link":""
-            },
-            {
-               "label":"img_2",
-               "link":""
-            },
-            {
-               "label":"img_3",
-               "link":""
-            }
-         ]
-      },
-      {
-         "id":"47",
-         "title":"Miệng hầm bị bể, hư hại",
-         "status":"1",
-         "note":"null",
-         "images":[
-            {
-               "label":"img_1",
-               "link":""
-            },
-            {
-               "label":"img_2",
-               "link":""
-            },
-            {
-               "label":"img_3",
-               "link":""
-            }
-         ]
-      },
-      {
-         "id":"48",
-         "title":"Nắp hầm đóng không khín, bị vênh",
-         "status":"1",
-         "note":"null",
-         "images":[
-            {
-               "label":"img_1",
-               "link":""
-            },
-            {
-               "label":"img_2",
-               "link":""
-            },
-            {
-               "label":"img_3",
-               "link":""
-            }
-         ]
-      },
-      {
-         "id":"49",
-         "title":"Khoen mở nắp hầm bị đứt, mất, gãy",
-         "status":"1",
-         "note":"null",
-         "images":[
-            {
-               "label":"img_1",
-               "link":""
-            },
-            {
-               "label":"img_2",
-               "link":""
-            },
-            {
-               "label":"img_3",
-               "link":""
-            }
-         ]
-      },
-      {
-         "id":"50",
-         "title":"Nắp hầm bị mất lớp tái lập hiện trạng vỉa hè",
-         "status":"1",
-         "note":"null",
-         "images":[
-            {
-               "label":"img_1",
-               "link":""
-            },
-            {
-               "label":"img_2",
-               "link":""
-            },
-            {
-               "label":"img_3",
-               "link":""
-            }
-         ]
-      },
-      {
-         "id":"51",
-         "title":"Hầm bị đọng rác",
-         "status":"1",
-         "note":"null",
-         "images":[
-            {
-               "label":"img_1",
-               "link":""
-            },
-            {
-               "label":"img_2",
-               "link":""
-            },
-            {
-               "label":"img_3",
-               "link":""
-            }
-         ]
-      },
-      {
-         "id":"52",
-         "title":"Hầm mất/ hư hỏng khóa – cửa an toàn",
-         "status":"1",
-         "note":"null",
-         "images":[
-            {
-               "label":"img_1",
-               "link":""
-            },
-            {
-               "label":"img_2",
-               "link":""
-            },
-            {
-               "label":"img_3",
-               "link":""
-            }
-         ]
-      },
-      {
-         "id":"53",
-         "title":"Hầm thấp, hoặc cao hơn đường, vỉa hè",
-         "status":"1",
-         "note":"null",
-         "images":[
-            {
-               "label":"img_1",
-               "link":""
-            },
-            {
-               "label":"img_2",
-               "link":""
-            },
-            {
-               "label":"img_3",
-               "link":""
-            }
-         ]
-      },
-      {
-         "id":"54",
-         "title":"Hầm bị lấp",
-         "status":"1",
-         "note":"null",
-         "images":[
-            {
-               "label":"img_1",
-               "link":""
-            },
-            {
-               "label":"img_2",
-               "link":""
-            },
-            {
-               "label":"img_3",
-               "link":""
-            }
-         ]
-      }
-    ]
+    "ResponseResult": {
+        "ErrorCode": 0,
+        "Message": "Thành công!",
+        "Result": {
+            "title": "Khảo Sát Hầm Bể",
+            "data": [
+                {
+                    "id": "43",
+                    "title": "Vị trí kiểm tra",
+                    "status": "-1",
+                    "note": "null"
+                },
+                {
+                    "id": "44",
+                    "title": "GPS",
+                    "status": "-1",
+                    "note": "null"
+                },
+                {
+                    "id": "45",
+                    "title": "Tên hầm",
+                    "status": "-1",
+                    "note": "null"
+                },
+                {
+                    "id": "46",
+                    "title": "Hầm bị bể nắp, mất nắp",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "47",
+                    "title": "Miệng hầm bị bể, hư hại",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "48",
+                    "title": "Nắp hầm đóng không khín, bị vênh",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "49",
+                    "title": "Khoen mở nắp hầm bị đứt, mất, gãy",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "50",
+                    "title": "Nắp hầm bị mất lớp tái lập hiện trạng vỉa hè",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "51",
+                    "title": "Hầm bị đọng rác",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "52",
+                    "title": "Hầm mất/ hư hỏng khóa – cửa an toàn",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "53",
+                    "title": "Hầm thấp, hoặc cao hơn đường, vỉa hè",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "54",
+                    "title": "Hầm bị lấp",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
 }

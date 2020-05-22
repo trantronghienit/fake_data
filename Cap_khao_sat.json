@@ -1,183 +1,189 @@
 ﻿{
-    "title": "Khảo sát Cáp",
-    "data": [
-        {
-            "id": "31",
-            "title": "Vị trí kiểm tra",
-            "status": "-1",
-            "note": "null"
-        },
-        {
-            "id": "32",
-            "title": "GPS",
-            "status": "-1",
-            "note": "null"
-        },
-        {
-            "id": "33",
-            "title": "Tên đoạn cable",
-            "status": "1",
-            "note": "null"
-        },
-        {
-            "id": "34",
-            "title": "Độ cao không đạt chuẩn, cáp không bị võng",
-            "status": "1",
-            "note": "null",
-            "images": [
+    "ResponseResult": {
+        "ErrorCode": 0,
+        "Message": "Thành công!",
+        "Result": {
+            "title": "Khảo sát Cáp",
+            "data": [
                 {
-                    "label": "img_1",
-                    "link": ""
+                    "id": "31",
+                    "title": "Vị trí kiểm tra",
+                    "status": "-1",
+                    "note": "null"
                 },
                 {
-                    "label": "img_2",
-                    "link": ""
+                    "id": "32",
+                    "title": "GPS",
+                    "status": "-1",
+                    "note": "null"
                 },
                 {
-                    "label": "img_3",
-                    "link": ""
-                }
-            ]
-        },
-        {
-            "id": "35",
-            "title": "Vị trí cáp băng đường không đúng quy định",
-            "status": "1",
-            "note": "null",
-            "images": [
-                {
-                    "label": "img_1",
-                    "link": ""
+                    "id": "33",
+                    "title": "Tên đoạn cable",
+                    "status": "1",
+                    "note": "null"
                 },
                 {
-                    "label": "img_2",
-                    "link": ""
+                    "id": "34",
+                    "title": "Độ cao không đạt chuẩn, cáp không bị võng",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "label": "img_3",
-                    "link": ""
-                }
-            ]
-        },
-        {
-            "id": "36",
-            "title": "Cáp không được đi trong hệ thống gông cáp",
-            "status": "1",
-            "note": "null",
-            "images": [
-                {
-                    "label": "img_1",
-                    "link": ""
+                    "id": "35",
+                    "title": "Vị trí cáp băng đường không đúng quy định",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "label": "img_2",
-                    "link": ""
+                    "id": "36",
+                    "title": "Cáp không được đi trong hệ thống gông cáp",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "label": "img_3",
-                    "link": ""
-                }
-            ]
-        },
-        {
-            "id": "37",
-            "title": "Cáp không được cố định trên trụ bằng ti và tam kẹp",
-            "status": "1",
-            "note": "null",
-            "images": [
-                {
-                    "label": "img_1",
-                    "link": ""
+                    "id": "37",
+                    "title": "Cáp không được cố định trên trụ bằng ti và tam kẹp",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "label": "img_2",
-                    "link": ""
+                    "id": "38",
+                    "title": "Cáp không được treo nhãn đầy đủ",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "label": "img_3",
-                    "link": ""
-                }
-            ]
-        },
-        {
-            "id": "38",
-            "title": "Cáp không được treo nhãn đầy đủ",
-            "status": "1",
-            "note": "null",
-            "images": [
-                {
-                    "label": "img_1",
-                    "link": ""
+                    "id": "39",
+                    "title": "Cáp tiềm ẩn nguy cơ cao : ngang trạm biến áp",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "label": "img_2",
-                    "link": ""
+                    "id": "40",
+                    "title": "Cáp tiềm ẩn nguy cơ cao : ngang bụi cỏ, bãi rác",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "label": "img_3",
-                    "link": ""
-                }
-            ]
-        },
-        {
-            "id": "39",
-            "title": "Cáp tiềm ẩn nguy cơ cao : ngang trạm biến áp",
-            "status": "1",
-            "note": "null",
-            "images": [
-                {
-                    "label": "img_1",
-                    "link": ""
-                },
-                {
-                    "label": "img_2",
-                    "link": ""
-                },
-                {
-                    "label": "img_3",
-                    "link": ""
-                }
-            ]
-        },
-        {
-            "id": "40",
-            "title": "Cáp tiềm ẩn nguy cơ cao : ngang bụi cỏ, bãi rác",
-            "status": "1",
-            "note": "null",
-            "images": [
-                {
-                    "label": "img_1",
-                    "link": ""
-                },
-                {
-                    "label": "img_2",
-                    "link": ""
-                },
-                {
-                    "label": "img_3",
-                    "link": ""
-                }
-            ]
-        },
-        {
-            "id": "41",
-            "title": "Cáp tiềm ẩn nguy cơ cao : khác",
-            "status": "1",
-            "note": "null",
-            "images": [
-                {
-                    "label": "img_1",
-                    "link": ""
-                },
-                {
-                    "label": "img_2",
-                    "link": ""
-                },
-                {
-                    "label": "img_3",
-                    "link": ""
+                    "id": "41",
+                    "title": "Cáp tiềm ẩn nguy cơ cao : khác",
+                    "status": "1",
+                    "note": "null",
+                    "images": [
+                        {
+                            "label": "img_1",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_2",
+                            "link": ""
+                        },
+                        {
+                            "label": "img_3",
+                            "link": ""
+                        }
+                    ]
                 }
             ]
         }
-    ]
+    }
 }
