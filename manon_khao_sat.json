@@ -119,58 +119,32 @@
             "data1": [
               {
                 "id": "201",
-                "title": "Manchon cáp được cố định chắc chắn trong bu cáp",
-                "status": "1",
+                "title": "Hình chụp tổng quan",
+                "status": "0",
                 "note": "null",
                 "type": "2",
                 "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
+                    {
+                      "label": "img_1",
+                      "link": ""
+                    },
+                    {
+                      "label": "img_2",
+                      "link": ""
+                    },
+                    {
+                      "label": "img_3",
+                      "link": ""
+                    }
+                  ]
               },
               {
-                "SubTitle": "Bước 2 : Tổng Quan",
-                "data1": [
-                  {
-                    "id": "201",
-                    "title": "Hình chụp tổng quan",
-                    "status": "0",
-                    "note": "null",
-                    "type": "2",
-                    "images": [
-                        {
-                          "label": "img_1",
-                          "link": ""
-                        },
-                        {
-                          "label": "img_2",
-                          "link": ""
-                        },
-                        {
-                          "label": "img_3",
-                          "link": ""
-                        }
-                      ]
-                  },
-                  {
-                    "id": "201",
-                    "title": "Ghi Chú",
-                    "status": "-1",
-                    "note": "",
-                    "type": "3",
-                    "images": []
-                  }
-                ]
+                "id": "201",
+                "title": "Ghi Chú",
+                "status": "-1",
+                "note": "",
+                "type": "3",
+                "images": []
               }
             ]
           }
