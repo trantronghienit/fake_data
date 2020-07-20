@@ -1,111 +1,167 @@
 {
     "ResponseResult": {
-        "ErrorCode": 0,
-        "Message": "Thành công!",
-        "Result": {
-            "title": "Bảo Trì Manchon",
-            "data": [
-                {
-                    "id": "2",
-                    "title": "Manchon cáp được cố định chắc chắn trong bu cáp",
-                    "status": "0",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "3",
-                    "title": "Bu cáp được cố định chắc chắn trên trụ điện",
-                    "status": "0",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "4",
-                    "title": "Manchon không bị bung/bể nắp/ thiếu ốc vít",
-                    "status": "0",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "5",
-                    "title": "Manchon không bị vào vô nước",
-                    "status": "0",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "6",
-                    "title": "Manchon thi công đúng kỹ thuật (đường kính bu cáp 50cm – 60cm, manchon nghiêng 300)",
-                    "status": "0",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                }
+      "ErrorCode": 0,
+      "Message": "Thành công!",
+      "Result": {
+        "title": "Bảo Trì Manchon",
+        "data": [
+          {
+            "SubTitle": "Bước 1 : Bảo trì mangchong 1",
+            "data1": [
+              {
+                "id": "2",
+                "title": "Manchon cáp được cố định chắc chắn trong bu cáp",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "3",
+                "title": "Bu cáp được cố định chắc chắn trên trụ điện",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "4",
+                "title": "Manchon không bị bung/bể nắp/ thiếu ốc vít",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "5",
+                "title": "Manchon không bị vào vô nước",
+                "status": "0",
+                "note": "null",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "6",
+                "title": "Manchon thi công đúng kỹ thuật (đường kính bu cáp 50cm – 60cm, manchon nghiêng 300)",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              }
             ]
-        }
+          },
+          {
+            "SubTitle": "Bước 2 : Tổng Quan",
+            "data1": [
+              {
+                "id": "201",
+                "title": "Manchon cáp được cố định chắc chắn trong bu cáp",
+                "status": "0",
+                "note": "null",
+                "type": "2",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "201",
+                "title": "Bu cáp được cố định chắc chắn trên trụ điện",
+                "status": "0",
+                "note": "null",
+                "type": "3",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
-}
+  }

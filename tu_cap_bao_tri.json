@@ -1,421 +1,485 @@
 {
     "ResponseResult": {
-        "ErrorCode": 0,
-        "Message": "Thành công!",
-        "Result": {
-            "title": "Bảo Trì Tủ cáp",
-            "data": [
-                {
-                    "SubTitle": "Bước 1 : Kiểm Tra Tổng Quan Bên Ngoài Tủ",
-                    "data1": [
-                        {
-                            "id": "9",
-                            "title": "Đai Inox chắc chắn, đầy đủ",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "10",
-                            "title": "Tên, tem nhãn đầy đủ, không bong tróc",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "11",
-                            "title": "Vỏ tủ, cửa tủ, khóa tủ, bản lề chắc chắn, không công vênh rỉ sét",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "12",
-                            "title": "Độ cao tĩnh không đúng tiêu chuẩn (1.7m – 2.5m)",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "13",
-                            "title": "Ống luồn cáp đầy đủ, được cố định chắc chắn bằng đai inox",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "14",
-                            "title": "Bu cáp ra vào tủ được quấn đúng kỹ thuật, bó gọn gàng",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "15",
-                            "title": "Manchon cáp được cố định chắc chắn trong bu cáp",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "16",
-                            "title": "Bú cáp được cố định chắc chắn trên trụ điện",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "17",
-                            "title": "Cáp được cố định trên trụ điện bằng ti và tam kẹp",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "18",
-                            "title": " Cáp được đi trong ống luồn cáp",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "SubTitle": "Bước 2 : Kiểm Tra Bên Trong Tủ",
-                    "data1": [
-                        {
-                            "id": "20",
-                            "title": "Cáp gốc, cáp phối trong tủ được cố định bằng cổ dê vào thanh cố định cáp, đầu cáp được quấn băng keo",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "21",
-                            "title": "Cáp hạ tầng không quá 3 sợi, dung lượng mỗi sợi không vượt quá 24FO",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "22",
-                            "title": "Khay Cassette được cố định chắc chắn trong tủ cáp",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "23",
-                            "title": "Khay Cassette nguyên vẹn, có đầy đủ nắp mica bảo vệ",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "24",
-                            "title": "Ống lỏng được cố định bằng dây rút, mối hàn được cố định trong khay cassette",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "25",
-                            "title": "Core quang được quấn gọn và cố định trong khay cassette",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "26",
-                            "title": "Bộ chia được cố định chắc chắn trong tủ bằng dây rút",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "27",
-                            "title": "Dây Pigtail bộ chia được quấn gọn theo rãnh chứa dây trong tủ",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "28",
-                            "title": "Dây Pigtail bộ chia trong khay cassette được cố định bằng bằng keo",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "29",
-                            "title": " Ngõ vào, ngõ ra của bộ chia tại khay cassette được cố định chắc chắn",
-                            "status": "0",
-                            "note": "null",
-                            "images": [
-                                {
-                                    "label": "img_1",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_2",
-                                    "link": ""
-                                },
-                                {
-                                    "label": "img_3",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
+      "ErrorCode": 0,
+      "Message": "Thành công!",
+      "Result": {
+        "title": "Bảo Trì Tủ cáp",
+        "data": [
+          {
+            "SubTitle": "Bước 1 : Kiểm Tra Tổng Quan Bên Ngoài Tủ",
+            "data1": [
+              {
+                "id": "101",
+                "title": "Đai Inox chắc chắn, đầy đủ",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "102",
+                "title": "Tên, tem nhãn đầy đủ, không bong tróc",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "11",
+                "title": "Vỏ tủ, cửa tủ, khóa tủ, bản lề chắc chắn, không công vênh rỉ sét",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "103",
+                "title": "Độ cao tĩnh không đúng tiêu chuẩn (1.7m – 2.5m)",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "13",
+                "title": "Ống luồn cáp đầy đủ, được cố định chắc chắn bằng đai inox",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "104",
+                "title": "Bu cáp ra vào tủ được quấn đúng kỹ thuật, bó gọn gàng",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "15",
+                "title": "Manchon cáp được cố định chắc chắn trong bu cáp",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "105",
+                "title": "Bú cáp được cố định chắc chắn trên trụ điện",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "106",
+                "title": "Cáp được cố định trên trụ điện bằng ti và tam kẹp",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "107",
+                "title": " Cáp được đi trong ống luồn cáp",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              }
             ]
-        }
+          },
+          {
+            "SubTitle": "Bước 2 : Kiểm Tra Bên Trong Tủ",
+            "data1": [
+              {
+                "id": "20",
+                "title": "Cáp gốc, cáp phối trong tủ được cố định bằng cổ dê vào thanh cố định cáp, đầu cáp được quấn băng keo",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "21",
+                "title": "Cáp hạ tầng không quá 3 sợi, dung lượng mỗi sợi không vượt quá 24FO",
+                "status": "0",
+                "note": "null",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "22",
+                "title": "Khay Cassette được cố định chắc chắn trong tủ cáp",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "23",
+                "title": "Khay Cassette nguyên vẹn, có đầy đủ nắp mica bảo vệ",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "24",
+                "title": "Ống lỏng được cố định bằng dây rút, mối hàn được cố định trong khay cassette",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "25",
+                "title": "Core quang được quấn gọn và cố định trong khay cassette",
+                "status": "0",
+                "note": "null",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "26",
+                "title": "Bộ chia được cố định chắc chắn trong tủ bằng dây rút",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "27",
+                "title": "Dây Pigtail bộ chia được quấn gọn theo rãnh chứa dây trong tủ",
+                "status": "0",
+                "note": "null",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "28",
+                "title": "Dây Pigtail bộ chia trong khay cassette được cố định bằng bằng keo",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "29",
+                "title": " Ngõ vào, ngõ ra của bộ chia tại khay cassette được cố định chắc chắn",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "SubTitle": "Bước 3 : Tổng quang",
+            "data1": [
+              {
+                "id": "301",
+                "title": "Đai Inox chắc chắn, đầy đủ",
+                "status": "0",
+                "note": "null",
+                "type": "2",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "302",
+                "title": "Tên, tem nhãn đầy đủ, không bong tróc",
+                "status": "0",
+                "note": "null",
+                "type": "3",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
-}
+  }
