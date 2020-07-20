@@ -1,175 +1,198 @@
 ﻿{
     "ResponseResult": {
-        "ErrorCode": 0,
-        "Message": "Thành công!",
-        "Result": {
-            "title": "Bảo Trì Cáp",
-            "data": [
-                {
-                    "id": "31",
-                    "title": "Vị trí kiểm tra",
-                    "status": "-1",
-                    "note": "null"
-                },
-                {
-                    "id": "32",
-                    "title": "GPS",
-                    "status": "-1",
-                    "note": "null"
-                },
-                {
-                    "id": "33",
-                    "title": "Tên đoạn cable",
-                    "status": "-1",
-                    "note": "null"
-                },
-                {
-                    "id": "34",
-                    "title": "Độ cao không đạt chuẩn, cáp không bị võng",
-                    "status": "1",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "35",
-                    "title": "Vị trí cáp băng đường không đúng quy định",
-                    "status": "1",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "36",
-                    "title": "Cáp không được đi trong hệ thống gông cáp",
-                    "status": "1",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "37",
-                    "title": "Cáp không được cố định trên trụ bằng ti và tam kẹp",
-                    "status": "1",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "38",
-                    "title": "Cáp không được treo nhãn đầy đủ",
-                    "status": "1",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "39",
-                    "title": "Cáp tiềm ẩn nguy cơ cao : ngang trạm biến áp",
-                    "status": "1",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "40",
-                    "title": "Cáp tiềm ẩn nguy cơ cao : ngang bụi cỏ, bãi rác",
-                    "status": "1",
-                    "note": "null",
-                    "images": [
-                        {
-                            "label": "img_1",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_2",
-                            "link": ""
-                        },
-                        {
-                            "label": "img_3",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "41",
-                    "title": "Cáp tiềm ẩn nguy cơ cao : khác",
-                    "status": "-1",
-                    "note": "null"
-                }
+      "ErrorCode": 0,
+      "Message": "Thành công!",
+      "Result": {
+        "title": "Bảo Trì Cáp",
+        "data": [
+          {
+            "SubTitle": "Bước 1 : ",
+            "data1": [
+              {
+                "id": "31",
+                "title": "Vị trí kiểm tra",
+                "status": "-1",
+                "note": "null",
+                "type": "1",
+                "images": []
+              },
+              {
+                "id": "32",
+                "title": "GPS",
+                "status": "-1",
+                "note": "null",
+                "type": "1",
+                "images": []
+              },
+              {
+                "id": "33",
+                "title": "Tên đoạn cable",
+                "status": "-1",
+                "note": "null",
+                "type": "1",
+                "images": []
+              }
             ]
-        }
+          },
+          {
+            "SubTitle": "Bước 2 :",
+            "data1": [
+              {
+                "id": "34",
+                "title": "Độ cao không đạt chuẩn, cáp không bị võng",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "35",
+                "title": "Vị trí cáp băng đường không đúng quy định",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "36",
+                "title": "Cáp không được đi trong hệ thống gông cáp",
+                "status": "0",
+                "note": "null",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "37",
+                "title": "Cáp không được cố định trên trụ bằng ti và tam kẹp",
+                "status": "0",
+                "note": "null",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "38",
+                "title": "Cáp không được treo nhãn đầy đủ",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "39",
+                "title": "Cáp tiềm ẩn nguy cơ cao : ngang trạm biến áp",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "40",
+                "title": "Cáp tiềm ẩn nguy cơ cao : ngang bụi cỏ, bãi rác",
+                "status": "0",
+                "note": "null",
+                "type": "1",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "41",
+                "title": "Cáp tiềm ẩn nguy cơ cao : khác",
+                "status": "-1",
+                "note": "null",
+                "type": "4",
+                "images": []
+              }
+            ]
+          }
+        ]
+      }
     }
-}
+  }

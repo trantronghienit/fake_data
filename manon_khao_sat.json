@@ -139,23 +139,36 @@
                 ]
               },
               {
-                "id": "201",
-                "title": "Bu cáp được cố định chắc chắn trên trụ điện",
-                "status": "1",
-                "note": "null",
-                "type": "3",
-                "images": [
+                "SubTitle": "Bước 2 : Tổng Quan",
+                "data1": [
                   {
-                    "label": "img_1",
-                    "link": ""
+                    "id": "201",
+                    "title": "Hình chụp tổng quan",
+                    "status": "0",
+                    "note": "null",
+                    "type": "2",
+                    "images": [
+                        {
+                          "label": "img_1",
+                          "link": ""
+                        },
+                        {
+                          "label": "img_2",
+                          "link": ""
+                        },
+                        {
+                          "label": "img_3",
+                          "link": ""
+                        }
+                      ]
                   },
                   {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
+                    "id": "201",
+                    "title": "Ghi Chú",
+                    "status": "0",
+                    "note": "",
+                    "type": "3",
+                    "images": []
                   }
                 ]
               }

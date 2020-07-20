@@ -437,7 +437,7 @@
             "data1": [
               {
                 "id": "301",
-                "title": "Đai Inox chắc chắn, đầy đủ",
+                "title": "Hinh chup tổng quan",
                 "status": "1",
                 "note": "null",
                 "type": "2",
@@ -458,24 +458,11 @@
               },
               {
                 "id": "302",
-                "title": "Tên, tem nhãn đầy đủ, không bong tróc",
+                "title": "ghi chú",
                 "status": "1",
                 "note": "null",
                 "type": "3",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
+                "images": []
               }
             ]
           }
