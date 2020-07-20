@@ -13,7 +13,7 @@
                 "title": "Vị trí kiểm tra",
                 "status": "-1",
                 "note": "null",
-                "type": "1",
+                "type": "3",
                 "images": []
               },
               {
@@ -21,7 +21,7 @@
                 "title": "GPS",
                 "status": "-1",
                 "note": "null",
-                "type": "1",
+                "type": "3",
                 "images": []
               },
               {
@@ -29,7 +29,7 @@
                 "title": "Tên đoạn cable",
                 "status": "-1",
                 "note": "null",
-                "type": "1",
+                "type": "3",
                 "images": []
               }
             ]
@@ -181,16 +181,43 @@
                     "link": ""
                   }
                 ]
+              }
+              
+            ]
+          },
+          {
+            "SubTitle": "Bước 3 :",
+            "data1": [
+              {
+                "id": "40",
+                "title": "Hình chụp tổng quan",
+                "status": "1",
+                "note": "null",
+                "type": "2",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
               },
               {
                 "id": "41",
                 "title": "Cáp tiềm ẩn nguy cơ cao : khác",
                 "status": "-1",
                 "note": "null",
-                "type": "4",
+                "type": "3",
                 "images": []
               }
-            ]
+              ]
           }
         ]
       }
