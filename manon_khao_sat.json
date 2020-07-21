@@ -113,6 +113,40 @@
               ]
             }
           ]
+        },
+        {
+          "SubTitle": "Bước 2 : Tổng Quan",
+          "data1": [
+            {
+              "id": "201",
+              "title": "Hình ảnh tổng quan",
+              "status": "1",
+              "note": "null",
+              "type": "2",
+              "images": [
+                {
+                  "label": "img_1",
+                  "link": ""
+                },
+                {
+                  "label": "img_2",
+                  "link": ""
+                },
+                {
+                  "label": "img_3",
+                  "link": ""
+                }
+              ]
+            },
+            {
+                  "id": "201",
+                  "title": "Ghi Chú",
+                  "status": "-1",
+                  "note": "",
+                  "type": "3",
+                  "images": []
+            }
+          ]
         }
       ]
     }
