@@ -84,6 +84,7 @@
                 "title": "Cáp không được đi trong hệ thống gông cáp",
                 "status": "0",
                 "note": "null",
+                "type": "1",
                 "images": [
                   {
                     "label": "img_1",
@@ -104,6 +105,7 @@
                 "title": "Cáp không được cố định trên trụ bằng ti và tam kẹp",
                 "status": "0",
                 "note": "null",
+                "type": "1",
                 "images": [
                   {
                     "label": "img_1",
