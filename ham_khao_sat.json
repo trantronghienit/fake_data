@@ -1,270 +1,270 @@
 {
-    "ResponseResult": {
-      "ErrorCode": 0,
-      "Message": "Thành công!",
-      "Result": {
-        "title": "Bảo Trì Hầm",
-        "data": [
-          {
-            "SubTitle": "Bước 1 :",
-            "data1": [
-              {
-                "id": "43",
-                "title": "Vị trí kiểm tra",
-                "status": "-1",
-                "note": "null",
-                "type": "3",
-                "images": []
-              },
-              {
-                "id": "44",
-                "title": "GPS",
-                "status": "-1",
-                "note": "null",
-                "type": "3",
-                "images": []
-              },
-              {
-                "id": "45",
-                "title": "Tên hầm",
-                "status": "-1",
-                "note": "null",
-                "type": "3",
-                "images": []
-              }
-            ]
-          },
-          {
-            "SubTitle": "Bước 2 : ",
-            "data1": [
-              {
-                "id": "46",
-                "title": "Hầm bị bể nắp, mất nắp",
-                "status": "1",
-                "note": "null",
-                "type": "1",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
-              },
-              {
-                "id": "47",
-                "title": "Miệng hầm bị bể, hư hại",
-                "status": "1",
-                "note": "null",
-                "type": "1",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
-              },
-              {
-                "id": "48",
-                "title": "Nắp hầm đóng không khín, bị vênh",
-                "status": "1",
-                "note": "null",
-                "type": "1",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
-              },
-              {
-                "id": "49",
-                "title": "Khoen mở nắp hầm bị đứt, mất, gãy",
-                "status": "1",
-                "note": "null",
-                "type": "1",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
-              },
-              {
-                "id": "50",
-                "title": "Nắp hầm bị mất lớp tái lập hiện trạng vỉa hè",
-                "status": "1",
-                "note": "null",
-                "type": "1",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
-              },
-              {
-                "id": "51",
-                "title": "Hầm bị đọng rác",
-                "status": "1",
-                "note": "null",
-                "type": "1",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
-              },
-              {
-                "id": "52",
-                "title": "Hầm mất/ hư hỏng khóa – cửa an toàn",
-                "status": "1",
-                "note": "null",
-                "type": "1",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
-              },
-              {
-                "id": "53",
-                "title": "Hầm thấp, hoặc cao hơn đường, vỉa hè",
-                "status": "1",
-                "note": "null",
-                "type": "1",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
-              },
-              {
-                "id": "54",
-                "title": "Hầm bị lấp",
-                "status": "1",
-                "note": "null",
-                "type": "1",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
-                    "link": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "SubTitle": "Bước 3 :",
-            "data1": [
-              [
+  "ResponseResult": {
+    "ErrorCode": 0,
+    "Message": "Thành công!",
+    "Result": {
+      "title": "Bảo Trì Hầm",
+      "data": [
+        {
+          "SubTitle": "Bước 1 :",
+          "data1": [
+            {
+              "id": "43",
+              "title": "Vị trí kiểm tra",
+              "status": "-1",
+              "note": "null",
+              "type": "3",
+              "images": []
+            },
+            {
+              "id": "44",
+              "title": "GPS",
+              "status": "-1",
+              "note": "null",
+              "type": "3",
+              "images": []
+            },
+            {
+              "id": "45",
+              "title": "Tên hầm",
+              "status": "-1",
+              "note": "null",
+              "type": "3",
+              "images": []
+            }
+          ]
+        },
+        {
+          "SubTitle": "Bước 2 : ",
+          "data1": [
+            {
+              "id": "46",
+              "title": "Hầm bị bể nắp, mất nắp",
+              "status": "1",
+              "note": "null",
+              "type": "1",
+              "images": [
                 {
-                  "id": "40",
-                  "title": "Hình chụp tổng quan",
-                  "status": "1",
-                  "note": "null",
-                  "type": "2",
-                  "images": [
-                    {
-                      "label": "img_1",
-                      "link": ""
-                    },
-                    {
-                      "label": "img_2",
-                      "link": ""
-                    },
-                    {
-                      "label": "img_3",
-                      "link": ""
-                    }
-                  ]
+                  "label": "img_1",
+                  "link": ""
                 },
                 {
-                  "id": "41",
-                  "title": "Cáp tiềm ẩn nguy cơ cao : khác",
-                  "status": "-1",
-                  "note": "null",
-                  "type": "3",
-                  "images": []
+                  "label": "img_2",
+                  "link": ""
+                },
+                {
+                  "label": "img_3",
+                  "link": ""
                 }
               ]
+            },
+            {
+              "id": "47",
+              "title": "Miệng hầm bị bể, hư hại",
+              "status": "1",
+              "note": "null",
+              "type": "1",
+              "images": [
+                {
+                  "label": "img_1",
+                  "link": ""
+                },
+                {
+                  "label": "img_2",
+                  "link": ""
+                },
+                {
+                  "label": "img_3",
+                  "link": ""
+                }
+              ]
+            },
+            {
+              "id": "48",
+              "title": "Nắp hầm đóng không khín, bị vênh",
+              "status": "1",
+              "note": "null",
+              "type": "1",
+              "images": [
+                {
+                  "label": "img_1",
+                  "link": ""
+                },
+                {
+                  "label": "img_2",
+                  "link": ""
+                },
+                {
+                  "label": "img_3",
+                  "link": ""
+                }
+              ]
+            },
+            {
+              "id": "49",
+              "title": "Khoen mở nắp hầm bị đứt, mất, gãy",
+              "status": "1",
+              "note": "null",
+              "type": "1",
+              "images": [
+                {
+                  "label": "img_1",
+                  "link": ""
+                },
+                {
+                  "label": "img_2",
+                  "link": ""
+                },
+                {
+                  "label": "img_3",
+                  "link": ""
+                }
+              ]
+            },
+            {
+              "id": "50",
+              "title": "Nắp hầm bị mất lớp tái lập hiện trạng vỉa hè",
+              "status": "1",
+              "note": "null",
+              "type": "1",
+              "images": [
+                {
+                  "label": "img_1",
+                  "link": ""
+                },
+                {
+                  "label": "img_2",
+                  "link": ""
+                },
+                {
+                  "label": "img_3",
+                  "link": ""
+                }
+              ]
+            },
+            {
+              "id": "51",
+              "title": "Hầm bị đọng rác",
+              "status": "1",
+              "note": "null",
+              "type": "1",
+              "images": [
+                {
+                  "label": "img_1",
+                  "link": ""
+                },
+                {
+                  "label": "img_2",
+                  "link": ""
+                },
+                {
+                  "label": "img_3",
+                  "link": ""
+                }
+              ]
+            },
+            {
+              "id": "52",
+              "title": "Hầm mất/ hư hỏng khóa – cửa an toàn",
+              "status": "1",
+              "note": "null",
+              "type": "1",
+              "images": [
+                {
+                  "label": "img_1",
+                  "link": ""
+                },
+                {
+                  "label": "img_2",
+                  "link": ""
+                },
+                {
+                  "label": "img_3",
+                  "link": ""
+                }
+              ]
+            },
+            {
+              "id": "53",
+              "title": "Hầm thấp, hoặc cao hơn đường, vỉa hè",
+              "status": "1",
+              "note": "null",
+              "type": "1",
+              "images": [
+                {
+                  "label": "img_1",
+                  "link": ""
+                },
+                {
+                  "label": "img_2",
+                  "link": ""
+                },
+                {
+                  "label": "img_3",
+                  "link": ""
+                }
+              ]
+            },
+            {
+              "id": "54",
+              "title": "Hầm bị lấp",
+              "status": "1",
+              "note": "null",
+              "type": "1",
+              "images": [
+                {
+                  "label": "img_1",
+                  "link": ""
+                },
+                {
+                  "label": "img_2",
+                  "link": ""
+                },
+                {
+                  "label": "img_3",
+                  "link": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "SubTitle": "Bước 3 :",
+          "data1": [
+            [
+              {
+                "id": "40",
+                "title": "Hình chụp tổng quan",
+                "status": "1",
+                "note": "null",
+                "type": "2",
+                "images": [
+                  {
+                    "label": "img_1",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_2",
+                    "link": ""
+                  },
+                  {
+                    "label": "img_3",
+                    "link": ""
+                  }
+                ]
+              },
+              {
+                "id": "41",
+                "title": "Cáp tiềm ẩn nguy cơ cao : khác",
+                "status": "-1",
+                "note": "null",
+                "type": "3",
+                "images": []
+              }
             ]
-          }
-        ]
-      }
+          ]
+        }
+      ]
     }
   }
+}
