@@ -13,7 +13,7 @@
               "title": "Vị trí kiểm tra",
               "status": "-1",
               "note": "null",
-              "type": "1",
+              "type": "3",
               "images": []
             },
             {
@@ -21,7 +21,7 @@
               "title": "GPS",
               "status": "-1",
               "note": "null",
-              "type": "1",
+              "type": "3",
               "images": []
             },
             {
@@ -29,7 +29,7 @@
               "title": "Tên đoạn cable",
               "status": "-1",
               "note": "null",
-              "type": "1",
+              "type": "3",
               "images": []
             }
           ]
