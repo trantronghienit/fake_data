@@ -6,7 +6,7 @@
       "title": "Bảo Trì Cáp",
       "data": [
         {
-          "SubTitle": "Bước 1 : Khảo sát",
+          "SubTitle": "Bước 1 : Bảo trì",
           "data1": [
             {
               "id": "31",
@@ -35,9 +35,9 @@
           ]
         },
         {
-          "SubTitle": "Bước 2 : Khảo sát",
+          "SubTitle": "Bước 2 : Bảo trì",
           "data1": [
-            {
+             {
               "id": "34",
               "title": "Độ cao không đạt chuẩn, cáp không bị võng",
               "status": "1",
@@ -84,6 +84,7 @@
               "title": "Cáp không được đi trong hệ thống gông cáp",
               "status": "1",
               "note": "null",
+              "type": "1",
               "images": [
                 {
                   "label": "img_1",
@@ -104,6 +105,7 @@
               "title": "Cáp không được cố định trên trụ bằng ti và tam kẹp",
               "status": "1",
               "note": "null",
+              "type": "1",
               "images": [
                 {
                   "label": "img_1",
