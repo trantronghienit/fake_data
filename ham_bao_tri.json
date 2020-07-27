@@ -14,6 +14,7 @@
               "status": "-1",
               "note": "null",
               "type": "3",
+              "disable": "1",
               "images": []
             },
             {
@@ -22,6 +23,7 @@
               "status": "-1",
               "note": "null",
               "type": "3",
+              "disable": "1",
               "images": []
             },
             {
@@ -30,6 +32,7 @@
               "status": "-1",
               "note": "null",
               "type": "3",
+              "disable": "0",
               "images": []
             }
           ]
@@ -43,6 +46,7 @@
               "status": "0",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -64,6 +68,7 @@
               "status": "0",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -85,6 +90,7 @@
               "status": "0",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -106,6 +112,7 @@
               "status": "0",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -127,6 +134,7 @@
               "status": "0",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -148,6 +156,7 @@
               "status": "0",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -169,6 +178,7 @@
               "status": "0",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -190,6 +200,7 @@
               "status": "0",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -211,6 +222,7 @@
               "status": "0",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -237,6 +249,7 @@
               "status": "0",
               "note": "null",
               "type": "2",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -258,6 +271,7 @@
               "status": "-1",
               "note": "null",
               "type": "3",
+              "disable": "0",
               "images": []
             }
           ]

@@ -14,6 +14,7 @@
               "status": "-1",
               "note": "null",
               "type": "3",
+              "disable": "1",
               "images": []
             },
             {
@@ -22,6 +23,7 @@
               "status": "-1",
               "note": "null",
               "type": "3",
+              "disable": "1",
               "images": []
             },
             {
@@ -30,6 +32,7 @@
               "status": "-1",
               "note": "null",
               "type": "3",
+              "disable": "0",
               "images": []
             }
           ]
@@ -37,12 +40,13 @@
         {
           "SubTitle": "Bước 2 : Bảo trì",
           "data1": [
-             {
+            {
               "id": "34",
               "title": "Độ cao không đạt chuẩn, cáp không bị võng",
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -64,6 +68,7 @@
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -85,6 +90,7 @@
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -106,6 +112,7 @@
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -127,6 +134,7 @@
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -148,6 +156,7 @@
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -169,6 +178,7 @@
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -195,6 +205,7 @@
               "status": "1",
               "note": "null",
               "type": "2",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -216,6 +227,7 @@
               "status": "-1",
               "note": "null",
               "type": "3",
+              "disable": "0",
               "images": []
             }
           ]

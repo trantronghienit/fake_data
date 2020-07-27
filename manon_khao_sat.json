@@ -14,6 +14,7 @@
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -35,6 +36,7 @@
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -56,6 +58,7 @@
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -76,6 +79,7 @@
               "title": "Manchon không bị vào vô nước",
               "status": "1",
               "note": "null",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -97,6 +101,7 @@
               "status": "1",
               "note": "null",
               "type": "1",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -123,6 +128,7 @@
               "status": "1",
               "note": "null",
               "type": "2",
+              "disable": "0",
               "images": [
                 {
                   "label": "img_1",
@@ -144,6 +150,7 @@
               "status": "-1",
               "note": "",
               "type": "3",
+              "disable": "0",
               "images": []
             }
           ]
