@@ -172,6 +172,7 @@
               "title": "Cáp hạ tầng không quá 3 sợi, dung lượng mỗi sợi không vượt quá 24FO",
               "status": "0",
               "note": "null",
+              "type": "1",
               "disable": "0",
               "images": [
                 {
@@ -227,6 +228,7 @@
               "title": "Core quang được quấn gọn và cố định trong khay cassette",
               "status": "0",
               "note": "null",
+              "type": "1",
               "disable": "0",
               "images": [
                 {
