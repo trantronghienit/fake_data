@@ -79,6 +79,10 @@
                 {
                   "label": "img_1",
                   "link": "www.birthdaywishes.expert/wp-content/uploads/2015/10/cover-photo-good-morning-images.jpg"
+                },
+                {
+                  "label": "img_2",
+                  "link": "www.birthdaywishes.expert/wp-content/uploads/2015/10/cover-photo-good-morning-images.jpg"
                 }
               ]
             },
@@ -92,7 +96,11 @@
               "images": [
                 {
                   "label": "img_1",
-                  "link": ""
+                  "link": "www.birthdaywishes.expert/wp-content/uploads/2015/10/cover-photo-good-morning-images.jpg"
+                },
+                {
+                  "label": "img_2",
+                  "link": "www.birthdaywishes.expert/wp-content/uploads/2015/10/cover-photo-good-morning-images.jpg"
                 }
               ]
             },
