@@ -12,7 +12,7 @@
               "id": "2",
               "title": "Manchon cáp được cố định chắc chắn trong bu cáp",
               "status": "1",
-              "note": "null",
+              "note": "",
               "type": "1",
               "disable": "0",
               "images": [
@@ -26,7 +26,7 @@
               "id": "3",
               "title": "Bu cáp được cố định chắc chắn trên trụ điện",
               "status": "1",
-              "note": "null",
+              "note": "",
               "type": "1",
               "disable": "0",
               "images": [
@@ -40,7 +40,7 @@
               "id": "4",
               "title": "Manchon không bị bung/bể nắp/ thiếu ốc vít",
               "status": "1",
-              "note": "null",
+              "note": "",
               "type": "1",
               "disable": "0",
               "images": [
@@ -54,7 +54,7 @@
               "id": "5",
               "title": "Manchon không bị vào vô nước",
               "status": "1",
-              "note": "null",
+              "note": "",
               "disable": "0",
               "images": [
                 {
@@ -67,7 +67,7 @@
               "id": "6",
               "title": "Manchon thi công đúng kỹ thuật (đường kính bu cáp 50cm – 60cm, manchon nghiêng 300)",
               "status": "1",
-              "note": "null",
+              "note": "",
               "type": "1",
               "disable": "0",
               "images": [
@@ -86,7 +86,7 @@
               "id": "201",
               "title": "Hình ảnh tổng quan",
               "status": "1",
-              "note": "null",
+              "note": "",
               "type": "2",
               "disable": "0",
               "images": [
