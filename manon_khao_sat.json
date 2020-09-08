@@ -6,7 +6,7 @@
       "title": "Bảo Trì Manchon",
       "data": [
         {
-          "SubTitle": "Bước 1 : Bảo trì mangchong",
+          "SubTitle": "Bước 1 : Bảo trì mangchong 1",
           "data1": [
             {
               "id": "2",
@@ -55,6 +55,7 @@
               "title": "Manchon không bị vào vô nước",
               "status": "1",
               "note": "",
+              "type": "1",
               "disable": "0",
               "images": [
                 {
