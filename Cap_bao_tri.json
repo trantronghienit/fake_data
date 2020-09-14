@@ -9,6 +9,15 @@
           "SubTitle": "Bước 1 : Bảo trì",
           "data1": [
             {
+              "id": "33",
+              "title": "Tên đoạn cable",
+              "status": "-1",
+              "note": "",
+              "type": "3",
+              "disable": "0",
+              "images": []
+            },
+            {
               "id": "31",
               "title": "Vị trí kiểm tra",
               "status": "-1",
@@ -24,15 +33,6 @@
               "note": "",
               "type": "3",
               "disable": "1",
-              "images": []
-            },
-            {
-              "id": "33",
-              "title": "Tên đoạn cable",
-              "status": "-1",
-              "note": "",
-              "type": "3",
-              "disable": "0",
               "images": []
             }
           ]
