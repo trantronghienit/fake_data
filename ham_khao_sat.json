@@ -14,7 +14,7 @@
               "status": "-1",
               "note": "",
               "type": "3",
-              "disable": "1",
+              "disable": "0",
               "images": []
             },
             {
@@ -43,7 +43,7 @@
             {
               "id": "46",
               "title": "Hầm bị bể nắp, mất nắp",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -57,21 +57,21 @@
             {
               "id": "47",
               "title": "Miệng hầm bị bể, hư hại",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
               "images": [
                 {
                   "label": "img_1",
-                  "link": "5f487b39a86797066c5b7b0e"
+                  "link": ""
                 }
               ]
             },
             {
               "id": "48",
               "title": "Nắp hầm đóng không khín, bị vênh",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -85,21 +85,21 @@
             {
               "id": "49",
               "title": "Khoen mở nắp hầm bị đứt, mất, gãy",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
               "images": [
                 {
                   "label": "img_1",
-                  "link": "5f487b39a86797066c5b7b0e"
+                  "link": ""
                 }
               ]
             },
             {
               "id": "50",
               "title": "Nắp hầm bị mất lớp tái lập hiện trạng vỉa hè",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -113,7 +113,7 @@
             {
               "id": "51",
               "title": "Hầm bị đọng rác",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -127,7 +127,7 @@
             {
               "id": "52",
               "title": "Hầm mất/ hư hỏng khóa – cửa an toàn",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -141,7 +141,7 @@
             {
               "id": "53",
               "title": "Hầm thấp, hoặc cao hơn đường, vỉa hè",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -155,7 +155,7 @@
             {
               "id": "54",
               "title": "Hầm bị lấp",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -182,14 +182,6 @@
                 "images": [
                   {
                     "label": "img_1",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_2",
-                    "link": ""
-                  },
-                  {
-                    "label": "img_3",
                     "link": ""
                   }
                 ]

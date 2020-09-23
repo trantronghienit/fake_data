@@ -6,7 +6,7 @@
       "title": "Bảo Trì Hầm",
       "data": [
         {
-          "SubTitle": "Bước 1 :",
+          "SubTitle": "Bước 1 : Bảo trì hầm",
           "data1": [
             {
               "id": "43",
@@ -14,7 +14,7 @@
               "status": "-1",
               "note": "",
               "type": "3",
-              "disable": "1",
+              "disable": "0",
               "images": []
             },
             {
@@ -38,7 +38,7 @@
           ]
         },
         {
-          "SubTitle": "Bước 2 : ",
+          "SubTitle": "Bước 2 : Bảo trì hầm",
           "data1": [
             {
               "id": "46",
@@ -71,28 +71,28 @@
             {
               "id": "48",
               "title": "Nắp hầm đóng không khín, bị vênh",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
               "images": [
                 {
                   "label": "img_1",
-                  "link": "5f487b39a86797066c5b7b0e"
+                  "link": ""
                 }
               ]
             },
             {
               "id": "49",
               "title": "Khoen mở nắp hầm bị đứt, mất, gãy",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
               "images": [
                 {
                   "label": "img_1",
-                  "link": "5f487b39a86797066c5b7b0e"
+                  "link": ""
                 }
               ]
             },

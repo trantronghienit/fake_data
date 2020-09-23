@@ -18,7 +18,7 @@
               "images": [
                 {
                   "label": "img_1",
-                  "link": "5f487b39a86797066c5b7b0e"
+                  "link": ""
                 }
               ]
             },
@@ -32,14 +32,14 @@
               "images": [
                 {
                   "label": "img_1",
-                  "link": "5f487b39a86797066c5b7b0e"
+                  "link": ""
                 }
               ]
             },
             {
               "id": "11",
               "title": "Vỏ tủ, cửa tủ, khóa tủ, bản lề chắc chắn, không công vênh rỉ sét",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -53,7 +53,7 @@
             {
               "id": "103",
               "title": "Độ cao tĩnh không đúng tiêu chuẩn (1.7m – 2.5m)",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -67,7 +67,7 @@
             {
               "id": "13",
               "title": "Ống luồn cáp đầy đủ, được cố định chắc chắn bằng đai inox",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -81,7 +81,7 @@
             {
               "id": "104",
               "title": "Bu cáp ra vào tủ được quấn đúng kỹ thuật, bó gọn gàng",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -95,7 +95,7 @@
             {
               "id": "15",
               "title": "Manchon cáp được cố định chắc chắn trong bu cáp",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -109,7 +109,7 @@
             {
               "id": "105",
               "title": "Bú cáp được cố định chắc chắn trên trụ điện",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -123,7 +123,7 @@
             {
               "id": "106",
               "title": "Cáp được cố định trên trụ điện bằng ti và tam kẹp",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -137,7 +137,7 @@
             {
               "id": "107",
               "title": " Cáp được đi trong ống luồn cáp",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -163,14 +163,14 @@
               "images": [
                 {
                   "label": "img_1",
-                  "link": "5f487b39a86797066c5b7b0e"
+                  "link": ""
                 }
               ]
             },
             {
               "id": "21",
               "title": "Cáp hạ tầng không quá 3 sợi, dung lượng mỗi sợi không vượt quá 24FO",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -184,7 +184,7 @@
             {
               "id": "22",
               "title": "Khay Cassette được cố định chắc chắn trong tủ cáp",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -198,7 +198,7 @@
             {
               "id": "23",
               "title": "Khay Cassette nguyên vẹn, có đầy đủ nắp mica bảo vệ",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -212,7 +212,7 @@
             {
               "id": "24",
               "title": "Ống lỏng được cố định bằng dây rút, mối hàn được cố định trong khay cassette",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -226,35 +226,35 @@
             {
               "id": "25",
               "title": "Core quang được quấn gọn và cố định trong khay cassette",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
               "images": [
                 {
                   "label": "img_1",
-                  "link": "www.birthdaywishes.expert/wp-content/uploads/2015/10/cover-photo-good-morning-images.jpg"
+                  "link": ""
                 }
               ]
             },
             {
               "id": "26",
               "title": "Bộ chia được cố định chắc chắn trong tủ bằng dây rút",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
               "images": [
                 {
                   "label": "img_1",
-                  "link": "www.birthdaywishes.expert/wp-content/uploads/2015/10/cover-photo-good-morning-images.jpg"
+                  "link": ""
                 }
               ]
             },
             {
               "id": "27",
               "title": "Dây Pigtail bộ chia được quấn gọn theo rãnh chứa dây trong tủ",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -268,7 +268,7 @@
             {
               "id": "28",
               "title": "Dây Pigtail bộ chia trong khay cassette được cố định bằng bằng keo",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -282,7 +282,7 @@
             {
               "id": "29",
               "title": " Ngõ vào, ngõ ra của bộ chia tại khay cassette được cố định chắc chắn",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "1",
               "disable": "0",
@@ -301,18 +301,18 @@
             {
               "id": "301",
               "title": "Hình chụp tổng quan",
-              "status": "1",
+              "status": "0",
               "note": "",
               "type": "2",
               "disable": "0",
               "images": [
                 {
                   "label": "Hình chụp vỏ tủ",
-                  "link": "5f487b39a86797066c5b7b0e"
+                  "link": ""
                 },
                 {
                   "label": "Hình chụp trong tủ",
-                  "link": "5f487b39a86797066c5b7b0e"
+                  "link": ""
                 }
               ]
             },
