@@ -3,10 +3,10 @@
     "ErrorCode": 0,
     "Message": "Thành công!",
     "Result": {
-      "title": "Bảo Trì Manchon",
+      "title": "Khảo Sát Manchon",
       "data": [
         {
-          "SubTitle": "Bước 1 : Bảo trì Manchon",
+          "SubTitle": "Bước 1 : Khảo Sát Manchon",
           "data1": [
             {
               "id": "2",

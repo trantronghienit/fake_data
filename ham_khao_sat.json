@@ -3,10 +3,10 @@
     "ErrorCode": 0,
     "Message": "Thành công!",
     "Result": {
-      "title": "Bảo Trì Hầm",
+      "title": "Khảo Sát Hầm",
       "data": [
         {
-          "SubTitle": "Bước 1 :",
+          "SubTitle": "Bước 1 : Khảo Sát Hầm",
           "data1": [
             {
               "id": "43",
@@ -38,7 +38,7 @@
           ]
         },
         {
-          "SubTitle": "Bước 2 : ",
+          "SubTitle": "Bước 2 : Khảo Sát Hầm",
           "data1": [
             {
               "id": "46",
@@ -169,7 +169,7 @@
           ]
         },
         {
-          "SubTitle": "Bước 3 :",
+          "SubTitle": "Bước 3 : Tổng Quan",
           "data1": [
             [
               {
