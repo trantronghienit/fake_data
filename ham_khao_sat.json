@@ -157,31 +157,29 @@
         {
           "SubTitle": "Bước 3 : Tổng Quan",
           "data1": [
-            [
-              {
-                "id": "40",
-                "title": "Hình chụp tổng quan",
-                "status": "1",
-                "note": "",
-                "type": "2",
-                "disable": "0",
-                "images": [
-                  {
-                    "label": "img_1",
-                    "link": ""
-                  }
-                ]
-              },
-              {
-                "id": "41",
-                "title": "Cáp tiềm ẩn nguy cơ cao : khác",
-                "status": "-1",
-                "note": "",
-                "type": "3",
-                "disable": "0",
-                "images": []
-              }
-            ]
+            {
+              "id": "40",
+              "title": "Hình chụp tổng quan",
+              "status": "1",
+              "note": "",
+              "type": "2",
+              "disable": "0",
+              "images": [
+                {
+                  "label": "img_1",
+                  "link": ""
+                }
+              ]
+            },
+            {
+              "id": "41",
+              "title": "Cáp tiềm ẩn nguy cơ cao : khác",
+              "status": "-1",
+              "note": "",
+              "type": "3",
+              "disable": "0",
+              "images": []
+            }
           ]
         }
       ]
