@@ -324,6 +324,15 @@
               "type": "3",
               "disable": "0",
               "images": []
+            },
+			 {
+              "id": "303",
+              "title": "Ghi chú",
+              "status": "-1",
+              "note": "",
+              "type": "3",
+              "disable": "0",
+              "images": []
             }
           ]
         }
